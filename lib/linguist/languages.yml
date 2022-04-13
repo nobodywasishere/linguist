@@ -6488,6 +6488,19 @@ TypeScript:
   codemirror_mode: javascript
   codemirror_mime_type: application/typescript
   language_id: 378
+Unicon:
+  type: programming
+  color:
+  aliases:
+  - icn
+  - icon
+  ace_mode: text
+  codemirror_mode: idl
+  codemirror_mime_type: x-idl
+  extensions:
+  - ".icn"
+  tm_scope: source.icn
+  language_id: 434941227
 Unified Parallel C:
   type: programming
   color: "#4e3617"

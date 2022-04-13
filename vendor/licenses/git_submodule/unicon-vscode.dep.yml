@@ -1,0 +1,8 @@
+---
+name: unicon-vscode
+version: 134247ad1bf6b150361e7f8e54a798793ca94a10
+type: git_submodule
+homepage: https://github.com/nobodywasishere/unicon-vscode.git
+license: mit
+licenses: []
+notices: []
